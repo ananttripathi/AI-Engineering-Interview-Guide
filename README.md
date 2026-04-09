@@ -5,7 +5,6 @@
   
   [![GitHub](https://img.shields.io/badge/GitHub-ananttripathi-181717?style=flat&logo=github)](https://github.com/ananttripathi)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anant_Tripathi-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/anant-tripathi-202157325)
-  [![Twitter](https://img.shields.io/badge/Twitter-@ananttripathi-1DA1F2?style=flat&logo=twitter)](https://twitter.com/ananttripathi)
 
   <p>The definitive interview preparation cheat sheet for modern AI Engineering roles. Extensively covering Foundation Models, Retrieval-Augmented Generation (RAG), Agentic AI, LLMOps, infrastructure scaling, and multimodal systems.</p>
 </div>
