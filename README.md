@@ -4,7 +4,7 @@
   # The Ultimate AI Engineering Interview Guide
   
   [![GitHub](https://img.shields.io/badge/GitHub-ananttripathi-181717?style=flat&logo=github)](https://github.com/ananttripathi)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anant_Tripathi-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/anant-tripathi-202157325)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anant_Tripathi-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ananttripathiak/)
 
   <p>The definitive interview preparation cheat sheet for modern AI Engineering roles. Extensively covering Foundation Models, Retrieval-Augmented Generation (RAG), Agentic AI, LLMOps, infrastructure scaling, and multimodal systems.</p>
 </div>
